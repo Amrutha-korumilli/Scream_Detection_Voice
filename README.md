@@ -20,6 +20,17 @@ The main objective of the system is that it should be able to accurately detect 
 2. 240 Scremas and 760 Non-screams
 
 
+![Picture2](https://user-images.githubusercontent.com/34261526/77190102-a9217100-6afe-11ea-929c-9c0d4919235c.png)
+
+3. Non-Screams (22 types):
+- Applause, babycry, cheering, cough, crowd, door-slam, groan, grunt, gunshot, kiss, laugh, nose-       blow, phone-ring, sniff, sniffle, snore, snort, speech, spit, throat, vocal, whistle  
+
+
+
+
+
+
+
 
 
 
