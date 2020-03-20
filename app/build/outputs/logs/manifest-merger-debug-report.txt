@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6095677078b39271c987ed6f771f06a8\support-media-compat-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a5b230f3d235d61bac5923a2791346e6\support-fragment-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2610e246d07b4f78c02afde952208d4a\support-core-utils-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4947340de164beff1bc413b1322a432d\support-core-ui-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b758f2df2dfc1b8314a2e4ca40419760\support-compat-26.0.0\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:3:5-51
+	android:debuggable
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:7:30-56
+	android:testOnly
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:7:5-29
+	xmlns:android
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:8:5-38
+	android:versionCode
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:14:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:19:5-74
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:19:22-72
+application
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:21:5-55:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6095677078b39271c987ed6f771f06a8\support-media-compat-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6095677078b39271c987ed6f771f06a8\support-media-compat-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a5b230f3d235d61bac5923a2791346e6\support-fragment-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a5b230f3d235d61bac5923a2791346e6\support-fragment-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2610e246d07b4f78c02afde952208d4a\support-core-utils-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2610e246d07b4f78c02afde952208d4a\support-core-utils-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4947340de164beff1bc413b1322a432d\support-core-ui-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4947340de164beff1bc413b1322a432d\support-core-ui-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b758f2df2dfc1b8314a2e4ca40419760\support-compat-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b758f2df2dfc1b8314a2e4ca40419760\support-compat-26.0.0\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:23:9-45
+	android:allowBackup
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:25:9-40
+activity#edu.polyu.screamalert.SoundProcessingActivity
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:26:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:27:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:34:27-74
+activity#edu.polyu.screamalert.SoundProcessingSetting
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:37:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:40:13-45
+	android:launchMode
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:38:13-72
+service#edu.polyu.screamalert.SoundProcessingService
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:43:9-46:47
+	android:label
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:46:13-45
+	android:icon
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:44:13-50
+receiver#edu.polyu.screamalert.SoundProcessingStartupReceiver
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:47:9-52:20
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:48:13-58
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:49:13-51:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:50:17-78
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:50:25-76
+receiver#edu.polyu.screamalert.AlarmReceiver
+ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:53:9-54:43
+	android:name
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml:54:13-41
+uses-sdk
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6095677078b39271c987ed6f771f06a8\support-media-compat-26.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6095677078b39271c987ed6f771f06a8\support-media-compat-26.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a5b230f3d235d61bac5923a2791346e6\support-fragment-26.0.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a5b230f3d235d61bac5923a2791346e6\support-fragment-26.0.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2610e246d07b4f78c02afde952208d4a\support-core-utils-26.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2610e246d07b4f78c02afde952208d4a\support-core-utils-26.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4947340de164beff1bc413b1322a432d\support-core-ui-26.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4947340de164beff1bc413b1322a432d\support-core-ui-26.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b758f2df2dfc1b8314a2e4ca40419760\support-compat-26.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b758f2df2dfc1b8314a2e4ca40419760\support-compat-26.0.0\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\SDF\SDF\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6095677078b39271c987ed6f771f06a8\support-media-compat-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6095677078b39271c987ed6f771f06a8\support-media-compat-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a5b230f3d235d61bac5923a2791346e6\support-fragment-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a5b230f3d235d61bac5923a2791346e6\support-fragment-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2610e246d07b4f78c02afde952208d4a\support-core-utils-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2610e246d07b4f78c02afde952208d4a\support-core-utils-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4947340de164beff1bc413b1322a432d\support-core-ui-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4947340de164beff1bc413b1322a432d\support-core-ui-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b758f2df2dfc1b8314a2e4ca40419760\support-compat-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\b758f2df2dfc1b8314a2e4ca40419760\support-compat-26.0.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\af65d76596cf995049612f2c544af492\support-v4-26.0.0\AndroidManifest.xml:27:13-51

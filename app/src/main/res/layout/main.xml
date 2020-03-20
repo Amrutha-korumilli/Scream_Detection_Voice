@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/banner"
+        android:gravity="start"
+        android:paddingStart="4dp"
+        android:paddingEnd="18dp"
+        android:text="      SWARASTHR"
+        android:textColor="#FAFAD2"
+        android:textSize="40sp"
+	android:fontFamily="sans-serif-thin"
+        android:textStyle="italic" />
+    
+    <FrameLayout 
+        android:layout_width="match_parent"
+        android:layout_height="100dip" >
+
+        <edu.polyu.utils.WaveformView
+            android:id="@+id/waveform_view"
+            android:layout_width="match_parent"
+            android:layout_height="105dp" />
+
+        <TextView
+            android:id="@+id/energy"
+            android:layout_width="123dp"
+            android:layout_height="18dp"
+            android:layout_gravity="start|bottom"
+            android:background="#070000"
+            android:enabled="true"
+            android:text="@string/energy"
+            android:textColor="#F44336" />
+
+    </FrameLayout>
+    
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/waveform" >
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <Spinner
+                android:id="@+id/characterSpinner"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:entries="@array/characterArray"
+                android:prompt="@string/chooseCharacter"
+                android:textColor="#F3F2F1" />
+
+            <Button
+                android:id="@+id/calibrateButton"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:enabled="false"
+                android:onClick="calibrateClick"
+                android:text="@string/calibrate"
+                android:textColor="#F3F2F1" />
+
+            <Button
+                android:id="@+id/startStopButton"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:onClick="startStopClick"
+                android:text="@string/startStopStart"
+                android:textColor="#F3F2F1" />
+
+            <Button
+                android:id="@+id/enableBgButton"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:enabled="false"
+                android:onClick="bgClick"
+                android:text="@string/runInBg"
+                android:textColor="#F3F2F1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:gravity="bottom"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/adSetting"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"
+                android:onClick="settingClick"
+                android:text="@string/adSetting"
+                android:textColor="#F3F2F1" />
+
+            <EditText
+                android:id="@+id/sysStatus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#000000"
+                android:enabled="false"
+                android:inputType="text"
+                android:text="@string/sysStatusIdle"
+                android:textColor="#519B9B" />
+        </LinearLayout>
+                        
+    </FrameLayout>
+</LinearLayout>

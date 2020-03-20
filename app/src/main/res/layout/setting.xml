@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"  android:layout_height="match_parent">
+
+    <PreferenceCategory android:title="@string/abtCtgTitle">
+        <Preference
+            android:title="@string/abtTitle"
+            android:key="about" >
+        </Preference>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/smsCtgTitle" >
+        <CheckBoxPreference
+            android:key="enableSMS"
+            android:title="@string/enableSMSTtitle"
+            android:summary="@string/enableSMSDescription">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:key="enableCall"
+            android:title="@string/enableCallTitle"
+            android:summary="@string/enableCallDescription"
+            android:defaultValue="false">
+        </CheckBoxPreference>
+        <EditTextPreference
+            android:key="phoneNumber"
+            android:title="@string/phoneNoTitle"
+            android:summary="@string/phoneNoDescription" >
+        </EditTextPreference>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/sensitivityCtgTitle" >
+        <ListPreference
+            android:key="sensitivity"
+            android:title="@string/sensitivityTitle"
+            android:summary="@string/sensitivityDescription"
+            android:entries="@array/listArray" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

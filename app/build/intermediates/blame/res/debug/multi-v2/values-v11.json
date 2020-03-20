@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\admin\\Desktop\\SDF\\SDF\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\admin\\Desktop\\SDF\\SDF\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6,10",
+                        "startColumns": "4,1",
+                        "startOffsets": "182,325",
+                        "endLines": "8,10",
+                        "endColumns": "12,84",
+                        "endOffsets": "316,408"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,192",
+                        "endLines": "4,5",
+                        "endColumns": "12,80",
+                        "endOffsets": "187,268"
+                    }
+                }
+            ]
+        }
+    ]
+}

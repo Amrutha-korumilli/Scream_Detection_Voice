@@ -1,0 +1,4 @@
+#Thu Feb 06 14:42:51 IST 2020
+base.0=C\:\\Users\\admin\\Desktop\\SDF\\SDF\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
