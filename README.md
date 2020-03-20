@@ -13,6 +13,15 @@ The main objective of the system is that it should be able to accurately detect 
 
 ![Picture1](https://user-images.githubusercontent.com/34261526/77189442-9195b880-6afd-11ea-88c3-12054ef908b7.png)
 
+# Experiments and Results
+1. 1000 sound events collected from                                                                
+      -Human Sound Effect (www.sound-ideas.com)                                                
+      -Freesound.org                                                                            
+2. 240 Scremas and 760 Non-screams
+
+
+
+
 
 
 
